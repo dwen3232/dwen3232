@@ -5,6 +5,7 @@ hey i'm david! 🚀
 things i like:
  - dev tool 🧰
  - neovim 💻
+ - cats 😻
 <!--
 **dwen3232/dwen3232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
