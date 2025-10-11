@@ -1,5 +1,10 @@
-## Hi there 👋
+hey i'm david! 🚀 
+ - bs in mathematics and computer science at georgia tech 🎓 
+ - ai engineer at lahzo 🤖 
 
+things i like:
+ - dev tool 🧰
+ - neovim 💻
 <!--
 **dwen3232/dwen3232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
