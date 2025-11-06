@@ -3,7 +3,7 @@ hey i'm david! 🚀
  - ai engineer at lahzo 🤖 
 
 things i like:
- - dev tool 🧰
+ - dev tools 🧰
  - neovim 💻
  - cats 😻
 <!--
