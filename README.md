@@ -1,6 +1,7 @@
 hey i'm david! 🚀 
  - bs in mathematics and computer science at georgia tech 🎓 
- - ai engineer at lahzo 🤖 
+ - ai engineer at lahzo 🤖
+ - married man as of 8/8/2026 😍
 
 things i like:
  - dev tools 🧰
