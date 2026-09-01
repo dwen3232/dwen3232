@@ -10,7 +10,7 @@ things i like:
 
 my current dev stack:
  - [herdr](https://github.com/herdrdev/herdr) (goodbye tmux! you have served me well 🫡)
- - [neovim](https://github.com/neovim/neovim) (i'm a loyal man what can i say)
+ - [neovim](https://github.com/neovim/neovim) (ikyky)
  - [claude code](https://claude.com/product/claude-code) (tried my best to like pi and opencode 😭)
  - [tuicr](https://github.com/agavra/tuicr) (vim native review tool)
  - [tailscale](https://github.com/tailscale/tailscale) (so i can securely ssh to my devices from anywhere)
